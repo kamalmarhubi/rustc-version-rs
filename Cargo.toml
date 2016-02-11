@@ -12,4 +12,5 @@ repository = "https://github.com/Kimundi/rustc-version-rs"
 keywords = ["version", "rustc"]
 
 [dependencies]
+maplit = "0.1.3"
 semver = "0.1"
